@@ -1,0 +1,6 @@
+id  year  rank  overall_pick  ... win_shares win_shares_per_48_minutes box_plus_minus  value_over_replacement
+0   1  1989     1             1  ...       21.8                     0.090           -0.5                     4.4
+1   2  1989     2             2  ...       34.8                     0.092           -0.9                     4.9
+2   3  1989     3             3  ...       55.7                     0.109            0.2                    13.5
+3   4  1989     4             4  ...       88.7                     0.122            0.8                    24.9
+4   5  1989     5             5  ...       22.5                     0.070           -2.9                    -3.7
