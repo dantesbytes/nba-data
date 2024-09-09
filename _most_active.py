@@ -93,7 +93,7 @@ print(most_points[['player', 'year', 'years_active']])
 
 
 
-## yar drafted 
+## year drafted 
 
 
 players_2000 = df[(df['year'] == 2015) & (df['overall_pick'].notna()) & (df['team'].notna()) &  (df['college'].notna()) & (df['years_active'].notna())]
