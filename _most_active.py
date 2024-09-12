@@ -35,6 +35,8 @@ max_years = df_filter['years_active'].max()
 
 top_players = df_filter[df_filter['years_active'] == max_years].sort_values('year')
 
+print(df.head())
+
 
 
 # issue with player colum
