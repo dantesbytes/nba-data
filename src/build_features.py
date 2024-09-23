@@ -21,7 +21,7 @@ def create_team_stats(df):
 def create_position_stats(df):
    
 
-def create_efficiency_features(df):
+def create_efficiency_features(df)
  
 
 def scale_features(df, columns_to_scale):
