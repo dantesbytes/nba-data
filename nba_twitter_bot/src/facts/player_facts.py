@@ -3,7 +3,6 @@ from datetime import datetime
 
 def generate_player_fact(players, teams, games, seasons, awards):
     """
-    Generate a random fact about a player from the NBA dataset.
     
     Args:
     players (list): List of dictionaries containing player data
