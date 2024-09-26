@@ -2,6 +2,8 @@ import pandas as pd
 import os
 from dotenv import load_dotenv
 
+# get the top 15 players from the every draft year. 
+
 def preprocess_nba_data(input_url, output_filepath):
     """
     Preprocesses the NBA draft data.
